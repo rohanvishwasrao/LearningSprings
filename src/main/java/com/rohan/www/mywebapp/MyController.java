@@ -41,7 +41,7 @@ public class MyController {
     {
         MathOperations ops = new MathOperations();
         int val1FromParameter = Integer.parseInt(val1);
-        int val2FromParameter = Integer.parseInt(val1);
+        int val2FromParameter = Integer.parseInt(val2);
         Integer val = ops.addOperations(val1FromParameter, val2FromParameter).intValue();
         return val.toString();
     }
