@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BugCollection version='3.0.0' threshold='low' effort='max'><Error></Error><Project><SrcDir>/Users/rvishwasrao/MyWebApp/src/main/java</SrcDir><SrcDir>/Users/rvishwasrao/MyWebApp/src/main/scala</SrcDir><SrcDir>/Users/rvishwasrao/MyWebApp/src/test/java</SrcDir><SrcDir>/Users/rvishwasrao/MyWebApp/src/test/scala</SrcDir><SrcDir>/Users/rvishwasrao/MyWebApp/src/test/java/../scala</SrcDir></Project></BugCollection>
